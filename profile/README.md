@@ -1,7 +1,8 @@
 # Team 4829, Titanium Tigers
 
 **We are the Titanium Tigers, a FIRST robotics team based in Chapel Hill, North Carolina.**
-<img src="https://user-images.githubusercontent.com/85963782/180301125-172691d6-3993-4ac8-a4e6-5cd601c52472.png" width="600">
+![image](https://user-images.githubusercontent.com/85963782/180302805-22f1db77-5ded-4d18-9c47-f7b256e87436.png)
+
 
 ## Contact
 
