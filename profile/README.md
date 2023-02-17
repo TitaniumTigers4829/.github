@@ -12,7 +12,7 @@
 - Follow our [instagram](https://www.instagram.com/titaniumtigers4829/?hl=en) to see updates throughout the season
 - Email us at titaniumtigers4829@gmail.com if you have any questions
 
-**Our main programmers are [Ryan](https://github.com/Ryan-Robot12) and [Jack](https://github.com/Traptricker).**
+**Our main programmers are [Jack](https://github.com/JacksonElia) and [Ryan](https://github.com/Ryan-Robot12).**
 
 ## Resources
 
