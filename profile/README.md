@@ -3,8 +3,7 @@
 **We are the Titanium Tigers, a FIRST robotics team based in Chapel Hill, North Carolina.**
 \
 \
-![image](https://user-images.githubusercontent.com/85963782/180302805-22f1db77-5ded-4d18-9c47-f7b256e87436.png)
-
+![image](https://github.com/TitaniumTigers4829/.github/assets/98932677/82d59977-dcbf-42d8-8fb3-d6fedf3dfa26)
 
 ## Contact
 
@@ -12,11 +11,9 @@
 - Follow our [instagram](https://www.instagram.com/titaniumtigers4829/?hl=en) to see updates throughout the season
 - Email us at titaniumtigers4829@gmail.com if you have any questions
 
-**Our lead programmers are [Jack](https://github.com/JacksonElia) and [Ryan](https://github.com/Ryan-Robot12).**
+**Our lead programmers are [Luke](https://github.com/NNLUliskey) and [Ryan](https://github.com/Ryan-Robot12).**
 
 ## Resources
 
-- Our 2022 Rapid React robot code is [here](https://github.com/TitaniumTigers4829/zuntue2022).
+- Our 2023 Charged Up robot code is [here](https://github.com/TitaniumTigers4829/robot-code-2023).
 - Our Coding Conventions/Style Guide is [here](https://docs.google.com/document/d/1n7c82OhWUoE0EcsLU9Ej2HSsh652Fp4WmMW84LIBsBQ/edit?usp=sharing).
-- Our Autonomous Handbook will be added here when completed.
-- 2023 Programming Timeline is [here](https://docs.google.com/spreadsheets/d/10H8qrwLPUyHl74o-c5xuLjRBd65qgyup1E-3Dsz1ILM/edit?usp=sharing)
