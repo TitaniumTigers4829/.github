@@ -11,7 +11,7 @@
 - Follow our [instagram](https://www.instagram.com/titaniumtigers4829/?hl=en) to see updates throughout the season
 - Email us at titaniumtigers4829@gmail.com if you have any questions
 
-**Our lead programmers are [Luke](https://github.com/NNLUliskey) and [Ryan](https://github.com/Ryan-Robot12).**
+**Our lead programmer is [Ishan](https://github.com/Ishan1522).**
 
 ## Resources
 
