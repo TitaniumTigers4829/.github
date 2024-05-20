@@ -3,7 +3,7 @@
 **We are the Titanium Tigers, a FIRST robotics team based in Chapel Hill, North Carolina.**
 \
 \
-![image](https://github.com/TitaniumTigers4829/.github/assets/98932677/82d59977-dcbf-42d8-8fb3-d6fedf3dfa26)
+![image](https://github.com/TitaniumTigers4829/.github/assets/98932677/3c427d7d-e171-43ec-9425-1e27e47e326a)
 
 ## Contact
 
