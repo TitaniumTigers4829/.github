@@ -16,4 +16,4 @@
 ## Resources
 
 - Our 2023 Charged Up robot code is [here](https://github.com/TitaniumTigers4829/robot-code-2023).
-- Our Coding Conventions/Style Guide is [here](https://docs.google.com/document/d/1n7c82OhWUoE0EcsLU9Ej2HSsh652Fp4WmMW84LIBsBQ/edit?usp=sharing).
+- Our Team Documentation can be found [here](https://ishan.gitbook.io/titaniumtigers).
