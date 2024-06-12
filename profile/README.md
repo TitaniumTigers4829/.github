@@ -15,5 +15,5 @@
 
 ## Resources
 
-- Our 2023 Charged Up robot code is [here](https://github.com/TitaniumTigers4829/robot-code-2023).
-- Our Team Documentation can be found [here](https://ishan.gitbook.io/titaniumtigers).
+- Our 2024 Crescendo robot code is [here](https://github.com/TitaniumTigers4829/aquila-robot-code-2024).
+- Our Team Documentation can be found [here](https://github.com/TitaniumTigers4829/4829-docs).
