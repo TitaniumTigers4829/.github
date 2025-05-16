@@ -15,5 +15,5 @@
 
 ## Resources
 
-- Our 2024 REEFSCAPE robot code is [here](https://github.com/TitaniumTigers4829/mako-robot-code-2025).
+- Our 2025 REEFSCAPE robot code is [here](https://github.com/TitaniumTigers4829/mako-robot-code-2025).
 - Our Team Documentation can be found [here](https://github.com/TitaniumTigers4829/4829-docs).
